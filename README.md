@@ -10,13 +10,13 @@ To run tests, first clone this project
   git clone github.com/gufranlazuardi/digital-solusindo-test
 ```
 
-To run first tests, run the following command
+To run first test, run the following command
 
 ```bash
   ts-node data-mapping.ts
 ```
 
-To run second tests, run the following command
+To run second test, run the following command
 
 ```bash
   ts-node data-visualization.ts
